@@ -11,6 +11,7 @@ venv
 .venv
 result.txt
 testing/main.c
+temp_auto_push.bat
 */*compile_commands.json
 testing/benchmark_results.txt
 
@@ -25,3 +26,5 @@ clang-format-2*
 
 # Others
 plan.md
+.gitignore
+branch_structure.json
